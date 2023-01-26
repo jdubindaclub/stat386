@@ -1,3 +1,3 @@
 #names of files we want git to ignore
 
-yup.txt
+"api-keys.txt"

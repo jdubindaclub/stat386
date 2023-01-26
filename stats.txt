@@ -1,6 +1,0 @@
-Curriculum Ideas
-
-- Boxplots
-- Regression
-- Bayes Thm
-bing bong
